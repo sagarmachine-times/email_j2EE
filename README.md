@@ -21,4 +21,5 @@ Servlets :
 7. SentServlet -> /sent
 8. WelcomeServlet -> /welcome
 9. LogoutServlet -> /logout
-10.AboutServlet -> /about
+10. AboutServlet -> /about
+
